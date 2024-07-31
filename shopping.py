@@ -1,0 +1,19 @@
+# Shopping.py
+
+Shop = {
+    "mobile phones" : "https://www.flipkart.com/search?q=smart+phone+above+20000&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_1_21_na_na_ps&otracker1=AS_Query_OrganicAutoSuggest_1_21_na_na_ps&as-pos=1&as-type=RECENT&suggestionId=smart+phone+above+20000&requestId=a23e634b-b4e0-4a60-b3dc-386f0a53aa31&as-searchtext=smart%20phones%20above%2020",
+    "iphone": "https://www.flipkart.com/search?q=iphone%20&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+    "samsung mobiles": "https://www.flipkart.com/search?q=Samsung%20smart%20phone&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+    "oneplus mobiles": "https://www.amazon.in/s?k=oneplus+mobiles&crid=1UM4JRXWASXQ9&sprefix=oneplus+mobile%2Caps%2C232&ref=nb_sb_noss_1",
+    "laptops": "https://www.amazon.in/s?k=laptop&crid=23QY3OFGQMBL8&sprefix=laptop%2Caps%2C251&ref=nb_sb_noss_1",
+    "macbook": "https://www.flipkart.com/search?q=macbook&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+    "rog laptops" : "https://www.flipkart.com/search?q=rog+laptop&sid=6bo%2Cb5g&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_4_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_4_na_na_ps&as-pos=1&as-type=RECENT&suggestionId=rog+laptop%7CLaptops&requestId=8d25da7e-3e0d-4af9-ae43-0e26d09501f0&as-searchtext=ROG%20",
+    "puma shoes": "https://www.flipkart.com/search?q=puma+shoes+men&sid=osp%2Ccil&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_5_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_5_na_na_na&as-pos=1&as-type=RECENT&suggestionId=puma+shoes+men%7CMen%27s+Footwear&requestId=388c1486-17ee-4749-9732-57f901428a04&as-searchtext=Puma%20",
+    "adidas shoes": "https://www.flipkart.com/search?q=adidas+shoes&sid=osp%2Ccil&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_11_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_11_na_na_na&as-pos=1&as-type=RECENT&suggestionId=adidas+shoes%7CMen%27s+Footwear&requestId=1f6b1b8e-dfd1-4ae9-8c2a-16712e3ce009&as-searchtext=adidas%20shos",
+    "crocs": "https://www.flipkart.com/search?q=crocs+men&sid=osp%2Ccil%2Ce83&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_6_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_6_na_na_ps&as-pos=1&as-type=RECENT&suggestionId=crocs+men%7CMen%E2%80%99s+Sandals+%26+Floaters&requestId=1976a149-38b2-43f7-b39f-37f7b18b30d5&as-searchtext=crocks",
+    "noise smart watches": "https://www.flipkart.com/search?q=noise+smartwatch&sid=ajy%2Cbuh&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_9_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_9_na_na_ps&as-pos=1&as-type=RECENT&suggestionId=noise+smartwatch%7CSmart+Watches&requestId=a4d293c2-4d74-44d5-829b-90cde20b1aba&as-searchtext=noise%20sma",
+    "boat smart watches": "https://www.flipkart.com/search?q=boatsmartwatch&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+    "samsung smart watches": "https://www.flipkart.com/search?q=samsung+smartwatch&sid=ajy%2Cbuh&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_13_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_13_na_na_ps&as-pos=1&as-type=RECENT&suggestionId=samsung+smartwatch%7CSmart+Watches&requestId=93b53dbe-42f0-4ede-9773-af6138067b51&as-searchtext=samsung%20smart",
+    "noise earbuds": "https://www.flipkart.com/search?q=noise+earbuds&sid=0pm%2Cfcn%2C821%2Ca7x%2C2si&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_9_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_9_na_na_na&as-pos=1&as-type=RECENT&suggestionId=noise+earbuds%7CTrue+Wireless&requestId=453d4121-425e-4889-b11a-25f15636fc9d&as-searchtext=noise%20ear",
+    "boat earbuds": "https://www.flipkart.com/search?q=boat%20earbuds&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off"
+}
